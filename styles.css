@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.pic1 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(./images/san-fran-view.jpg);
+  background-size: cover;
+  background-position: center;
+  display: table;
+  background-attachment: fixed;
+}
+.pic2 {
+  height: 110vh;
+  width: 100%;
+  background-image: url(./images/chi-view.jpg);
+  background-size: cover;
+  background-position: center;
+  display: table;
+  background-attachment: fixed;
+}
+.pic3 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(./images/ny-view.jpg);
+  background-size: cover;
+  background-position: center;
+  display: table;
+  background-attachment: fixed;
+}
+h1 {
+  font-family: sans-serif;
+  font-size: 48px;
+  color: #fff;
+  margin: 0px;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
